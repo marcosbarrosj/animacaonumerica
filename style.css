@@ -19,11 +19,11 @@ body{
 main section.container{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
-    gap: 40px;
+    gap: 15px;
     padding: 10px;
     margin-left: 10%;
     margin-right: 10%;
-    margin-top: 50px;
+    margin-top: 10%;
     
 
 }
@@ -32,7 +32,7 @@ main section.container{
 main section.container article.content{
     display: flex;
     flex-direction: column;
-    padding: 20px 30px;
+    padding: 60px 30px;
     font-size: 16px;
     border-radius: 0.5em;
     background-color: #21242b;
